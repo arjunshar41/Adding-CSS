@@ -1,0 +1,1 @@
+through this project I have learn regarding style sheets what are style sheets and what is css and types of CSS : Inline css internal css external css . and also know about notation of these types and syntax regarding css 
